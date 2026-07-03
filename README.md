@@ -33,17 +33,7 @@ monitoring: Prometheus, Grafana
 
 ---
 
-## Open Source Contributions
 
-Contributor to major DevOps ecosystems:
-
-- [kubernetes/website](https://github.com/kubernetes/website) — Kubernetes documentation
-- [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) — Terraform guides
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) — Argo CD GitOps
-- [traefik/traefik](https://github.com/traefik/traefik) — Traefik reverse proxy
-- [fluxcd/website](https://github.com/fluxcd/website) — Flux CD documentation
-
----
 
 ## GitHub Stats
 
