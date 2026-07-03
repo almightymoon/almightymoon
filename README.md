@@ -1,6 +1,6 @@
-# Hi, I'm Athar 👋
+# Hi, I'm Moon 👋
 
-**DevOps Engineer** · 5+ years building scalable infrastructure · Full-stack when needed
+**DevOps & Platform Engineer** · Full-stack · AI systems · 3D web experiences
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/almightymoon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects-green?style=flat&logo=github)](https://github.com/almightymoon)
@@ -16,12 +16,16 @@ iac: Terraform, Helm, Kustomize
 cicd: GitHub Actions, ArgoCD, Flux
 containers: Docker, Kubernetes, EKS
 languages: Python, TypeScript, Go
+ai: RAG, LLM agents, LangChain
+frontend: Next.js, React Three Fiber, WebGL
 monitoring: Prometheus, Grafana
 ```
 
 ---
 
 ## Featured Projects
+
+### DevOps & Platform
 
 | Project | Description |
 |---------|-------------|
@@ -31,9 +35,36 @@ monitoring: Prometheus, Grafana
 | [devops-dashboard](https://github.com/almightymoon/devops-dashboard) | Real-time infra monitoring — Next.js + Prometheus |
 | [github-actions-toolkit](https://github.com/almightymoon/github-actions-toolkit) | Reusable GHA workflows for Docker, Terraform, and K8s |
 
+### AI Engineering
+
+| Project | Description |
+|---------|-------------|
+| [ai-rag-starter](https://github.com/almightymoon/ai-rag-starter) | Production RAG API — FastAPI + ChromaDB + OpenAI-compatible LLMs |
+| [llm-agent-starter](https://github.com/almightymoon/llm-agent-starter) | Lightweight LLM agent with tool calling, ReAct loop, CLI and API |
+| [langchain-nextjs-template](https://github.com/almightymoon/langchain-nextjs-template) | LangChain + Next.js starter with custom enhancements |
+| [swarm](https://github.com/almightymoon/swarm) | OpenAI multi-agent orchestration framework (fork + enhancements) |
+
+### 3D & Interactive Web
+
+| Project | Description |
+|---------|-------------|
+| [3d-ecommerce-shop](https://github.com/almightymoon/3d-ecommerce-shop) | NovaMart — immersive 3D e-commerce with React Three Fiber |
+| [3d-portfolio-r3f](https://github.com/almightymoon/3d-portfolio-r3f) | Interactive 3D developer portfolio — R3F + GSAP |
+| [3d-portfolio-awwwards](https://github.com/almightymoon/3d-portfolio-awwwards) | Awwwards-style scroll-driven 3D portfolio |
+
 ---
 
+## Open Source Contributions
 
+| Project | PR | Status |
+|---------|-----|--------|
+| [fluxcd/website](https://github.com/fluxcd/website) | [#2607](https://github.com/fluxcd/website/pull/2607) | ✅ Merged |
+| [kubernetes/website](https://github.com/kubernetes/website) | [#56371](https://github.com/kubernetes/website/pull/56371) | 🔄 Open |
+| [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) | [#341](https://github.com/hashicorp/terraform-guides/pull/341) | 🔄 Open |
+| [traefik/traefik](https://github.com/traefik/traefik) | [#13461](https://github.com/traefik/traefik/pull/13461) | 🔄 Open |
+| [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | [#28569](https://github.com/argoproj/argo-cd/pull/28569) | 🔄 Open |
+
+---
 
 ## GitHub Stats
 
@@ -45,6 +76,6 @@ monitoring: Prometheus, Grafana
 
 ## Let's Connect
 
-Open to **DevOps**, **Platform Engineering**, and **SRE** roles.
+Open to **DevOps**, **Platform Engineering**, **SRE**, and **AI infrastructure** roles.
 
-📧 almightymoon@users.noreply.github.com · 🌐 [github.com/almightymoon](https://github.com/almightymoon)
+📧 almightymoon@users.noreply.github.com · 🔗 [linkedin.com/in/almightymoon](https://linkedin.com/in/almightymoon)
