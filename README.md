@@ -1,81 +1,119 @@
-# Hi, I'm Moon 👋
+<div align="center">
 
-**DevOps & Platform Engineer** · Full-stack · AI systems · 3D web experiences
+Athar Iqbal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/almightymoon)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-green?style=flat&logo=github)](https://github.com/almightymoon)
+Full-Stack & DevOps Engineer · Creative Technologist
 
----
+I build, ship and scale digital products — from expressive interfaces and real-time applications to reliable, production-ready infrastructure.
 
-## What I Do
+<p>
+  <a href="https://athariqbal.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/athar-iqbal-071401226/">LinkedIn</a> ·
+  <a href="mailto:atharqulimoon@gmail.com">Email</a>
+</p>
 
-```yaml
-role: DevOps / Platform Engineer
-cloud: AWS, GCP
-iac: Terraform, Helm, Kustomize
-cicd: GitHub Actions, ArgoCD, Flux
-containers: Docker, Kubernetes, EKS
-languages: Python, TypeScript, Go
-ai: RAG, LLM agents, LangChain
-frontend: Next.js, React Three Fiber, WebGL
-monitoring: Prometheus, Grafana
-```
+</div>
 
----
+About me
 
-## Featured Projects
+I’m a production-focused engineer who turns ambitious ideas into complete digital experiences. I work across the entire product lifecycle — shaping the experience, building the application, designing the systems behind it, and deploying infrastructure that is ready for real users.
 
-### DevOps & Platform
+My work sits at the intersection of design, code, motion, and operations. I care about interfaces that feel intentional, software that stays maintainable, and delivery systems that make shipping safer and faster.
 
-| Project | Description |
-|---------|-------------|
-| [microservice-starter](https://github.com/almightymoon/microservice-starter) | Full-stack microservice — FastAPI + Next.js + Docker + K8s + CI/CD |
-| [terraform-aws-platform](https://github.com/almightymoon/terraform-aws-platform) | Modular AWS IaC — VPC, EKS, RDS with Terraform |
-| [k8s-gitops-demo](https://github.com/almightymoon/k8s-gitops-demo) | GitOps with ArgoCD, Kustomize, and manifest validation |
-| [devops-dashboard](https://github.com/almightymoon/devops-dashboard) | Real-time infra monitoring — Next.js + Prometheus |
-| [github-actions-toolkit](https://github.com/almightymoon/github-actions-toolkit) | Reusable GHA workflows for Docker, Terraform, and K8s |
+What I do
 
-### AI Engineering
+Focus
 
-| Project | Description |
-|---------|-------------|
-| [ai-rag-starter](https://github.com/almightymoon/ai-rag-starter) | Production RAG API — FastAPI + ChromaDB + OpenAI-compatible LLMs |
-| [llm-agent-starter](https://github.com/almightymoon/llm-agent-starter) | Lightweight LLM agent with tool calling, ReAct loop, CLI and API |
-| [langchain-nextjs-template](https://github.com/almightymoon/langchain-nextjs-template) | LangChain + Next.js starter with custom enhancements |
-| [swarm](https://github.com/almightymoon/swarm) | OpenAI multi-agent orchestration framework (fork + enhancements) |
+What it looks like
 
-### 3D & Interactive Web
+Creative development
 
-| Project | Description |
-|---------|-------------|
-| [3d-ecommerce-shop](https://github.com/almightymoon/3d-ecommerce-shop) | NovaMart — immersive 3D e-commerce with React Three Fiber |
-| [3d-portfolio-r3f](https://github.com/almightymoon/3d-portfolio-r3f) | Interactive 3D developer portfolio — R3F + GSAP |
-| [3d-portfolio-awwwards](https://github.com/almightymoon/3d-portfolio-awwwards) | Awwwards-style scroll-driven 3D portfolio |
+Interactive, immersive interfaces where design, motion, and code work together.
 
----
+Full-stack engineering
 
-## Open Source Contributions
+Polished frontends, APIs, authentication, databases, and application logic built around performance and usability.
 
-| Project | PR | Status |
-|---------|-----|--------|
-| [fluxcd/website](https://github.com/fluxcd/website) | [#2607](https://github.com/fluxcd/website/pull/2607) | ✅ Merged |
-| [kubernetes/website](https://github.com/kubernetes/website) | [#56371](https://github.com/kubernetes/website/pull/56371) | 🔄 Open |
-| [hashicorp/terraform-guides](https://github.com/hashicorp/terraform-guides) | [#341](https://github.com/hashicorp/terraform-guides/pull/341) | 🔄 Open |
-| [traefik/traefik](https://github.com/traefik/traefik) | [#13461](https://github.com/traefik/traefik/pull/13461) | 🔄 Open |
-| [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | [#28569](https://github.com/argoproj/argo-cd/pull/28569) | 🔄 Open |
+DevOps & cloud
 
----
+Containerized systems, infrastructure as code, automated deployments, and production workflows built for reliability and scale.
 
-## GitHub Stats
+Core stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=almightymoon&show_icons=true&theme=tokyonight&hide_border=true)
+Product & application development
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almightymoon&layout=compact&theme=tokyonight&hide_border=true)
+Next.js · React · Node.js · TypeScript
 
----
+Infrastructure & delivery
 
-## Let's Connect
+AWS · Docker · Kubernetes · Terraform · Ansible · GitOps · Linux
 
-Open to **DevOps**, **Platform Engineering**, **SRE**, and **AI infrastructure** roles.
+Featured work
 
-📧 almightymoon@users.noreply.github.com · 🔗 [linkedin.com/in/almightymoon](https://linkedin.com/in/almightymoon)
+Project
+
+Description
+
+Links
+
+Roam
+
+A travel platform built around destination discovery and immersive journeys.
+
+Case study · Live preview
+
+Forex Navigators
+
+A FinTech trading platform combining real-time market views, dashboards, authentication, data, and trading workflows.
+
+Case study · Live preview
+
+BIM Copilot
+
+An AI-assisted BIM experience that turns complex building information into clear, actionable guidance.
+
+Case study · Live preview
+
+Starta Steel
+
+A construction brand and digital experience designed for industrial credibility, clarity, and growth.
+
+Case study
+
+Currently exploring
+
+Production-grade platform engineering and cloud architecture
+
+Kubernetes, GitOps, infrastructure automation, and observability
+
+Building digital products that balance visual craft with technical depth
+
+My approach
+
+Start with the experience. Build with precision. Ship with confidence. Scale deliberately.
+
+Whether it’s a new product, a complex application, or the infrastructure behind an existing platform, I bring the same mindset: understand the real problem, create a thoughtful system, and deliver something that works beautifully in production.
+
+GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=almightymoon&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Athar's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almightymoon&layout=compact&hide_border=true&theme=transparent" alt="Athar's most used languages" />
+
+</div>
+
+Let’s work together
+
+Have a product, platform, or ambitious idea that needs to move from concept to production?
+
+📩 Get in touch
+🌐 View my portfolio
+
+<div align="center">
+
+FULL-STACK × DEVOPS × CREATIVE ENGINEERING
+
+BUILD → SHIP → SCALE
+
+</div>
